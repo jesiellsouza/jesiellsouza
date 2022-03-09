@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Jesiel souza
 
 
-- 🔭 Hoje eu trabalho com front-end
-- 🌱 Estudando
+Me chamo Jesiel, tenho 22 anos e estudo programação a 5 meses. Estou buscando uma 
+oportunidade de Desenvolvedor Júnior, meu foco atualmente é desenvolvimento Front-end
+com HTML, CSS e JAVASCRIPT
 
 
 <div align="center">
