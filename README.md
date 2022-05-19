@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Jesiel souza
 
 
-Me chamo Jesiel, tenho 22 anos e estudo programação a 5 meses. Estou buscando uma 
-oportunidade de Desenvolvedor Júnior, meu foco atualmente é desenvolvimento Front-end
-com HTML, CSS e JAVASCRIPT
+Me chamo Jesiel, tenho 22 anos . Estou buscando uma 
+oportunidade de Desenvolvedor Júnior,
 
 
 <div align="center">
